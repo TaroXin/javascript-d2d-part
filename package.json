@@ -1,0 +1,12 @@
+{
+  "name": "javascript-d2d-part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "keywords": [],
+  "author": "TaroXin",
+  "license": "MIT"
+}
